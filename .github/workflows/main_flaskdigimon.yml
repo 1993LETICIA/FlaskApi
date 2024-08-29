@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'FlaskDigimon'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BFA26373CE940C691C8B81F80ADCE0F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DBAAD4C93D5A4706A4161B39C33F1B74 }}
